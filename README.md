@@ -32,3 +32,15 @@ yarn
 pnpm install
 
 bun install
+---
+📄 Features:
+
+✅ Create job openings with validation
+
+✅ Responsive UI for desktop & mobile
+
+✅ Modular components (easy to extend)
+
+✅ Typed with TypeScript
+
+🛠️ Future ready for backend/API integration
