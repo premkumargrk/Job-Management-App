@@ -44,3 +44,8 @@ bun install
 ✅ Typed with TypeScript
 
 🛠️ Future ready for backend/API integration
+
+## 🚀 Live Demo
+
+Check out the live version here:  
+👉 [Render](https://job-management-app-jv9i.onrender.com/)
